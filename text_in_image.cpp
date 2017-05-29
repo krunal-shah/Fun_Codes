@@ -77,4 +77,5 @@ int main()
 	imshow("Disp", input_img);
 	waitKey(0);
 	imwrite("wallpaper.jpg", input_img);
+
 }
